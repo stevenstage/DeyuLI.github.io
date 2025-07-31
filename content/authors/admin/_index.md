@@ -3,11 +3,11 @@
 title: 李德宇
 
 # Name pronunciation (optional)
-name_pronunciation: Deyu LI
+name_pronunciation: Deyu Li
 
 # Full name (for SEO)
 first_name: Deyu
-last_name: LI
+last_name: Li
 
 # Status emoji
 status:
@@ -66,28 +66,16 @@ education:
       - Principles of Communication
       - Signals and Systems
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Intern
+    company_name: Institute of Software, Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2025-10-20
+    date_end: '2025-12-20'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Reproducing multi-modal large model offense and defense
+      - The feasibility of this method has been proven through experiments.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -98,11 +86,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
-      - name: SQL
+      - name: Hardware language
         description: ''
         percent: 40
         icon: circle-stack
@@ -110,26 +98,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Badminton
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 70
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
