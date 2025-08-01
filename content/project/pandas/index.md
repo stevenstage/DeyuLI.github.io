@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Cuda-learning
+date: 2025-07-10
+external_link: https://github.com/stevenstage/cuda-learning
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - CUDA
+  - Triton
+  - GPU
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Personal notes and summeries on learning GPU acceleration
 
 <!--more-->
